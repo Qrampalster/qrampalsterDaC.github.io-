@@ -1,2 +1,3 @@
 #internal practice only
-Learning Document as Code in GitHub.
+/n Learning Document as Code in GitHub.
+/n This is the first shot
